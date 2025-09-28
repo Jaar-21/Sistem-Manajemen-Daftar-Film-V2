@@ -14,7 +14,7 @@ Sistem login dengan role (admin dan manusia)
 ========================================================
 - Sistem login dengan dua role pengguna: admin dan manusia.
 - Admin: dapat melakukan CRUD lengkap (lihat, tambah, update, hapus).
-- Manusia: hanya dapat melihat daftar film.
+- User: hanya dapat melihat daftar film.
 - Data film disimpan dalam dictionary.
 - Tampilan daftar film menggunakan PrettyTable agar rapi.
 - Program dilengkapi error handling untuk inputan yang salah
