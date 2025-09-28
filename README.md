@@ -23,7 +23,7 @@ Sistem login dengan role (admin dan manusia)
 
 FLOWCHART
 
-<img width="1626" height="2712" alt="Diagram Tanpa Judul drawio (2)" src="https://github.com/user-attachments/assets/8e9542d4-29e9-4b12-8292-e34a3003b0ac" />
+<img width="1626" height="2712" alt="Diagram Tanpa Judul drawio (3)" src="https://github.com/user-attachments/assets/641a12fb-c2be-4046-bcde-9bdb9f4a20cc" />
 
 
 ---
