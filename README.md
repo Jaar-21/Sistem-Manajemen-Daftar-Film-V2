@@ -10,7 +10,7 @@ NIM : 2509116041
 Sistem ini adalah aplikasi sederhana CRUD Film
 Bisa lihat, tambah, update, dan hapus film.
 Menggunakan Dictionary, Looping, Functions, Error Handling.
-Sistem login dengan role (admin dan manusia)
+Sistem login dengan role (admin dan user)
 ========================================================
 - Sistem login dengan dua role pengguna: admin dan manusia.
 - Admin: dapat melakukan CRUD lengkap (lihat, tambah, update, hapus).
