@@ -295,14 +295,8 @@ elif role == "user":
             print("Kartu kuning")
         except EOFError:
             print("Kartu merah")
----
-
   ```
-Oke! Aku bisa bantu susun ulang penjelasanmu supaya lebih rapi, mudah dibaca, dan cocok untuk README di GitHub. Aku akan buat versi **terstruktur dengan heading, bullet, dan bahasa yang lebih formal tapi tetap jelas**.
-
 ---
-
-# Sistem CRUD Film – Dokumentasi
 
 ## 1. Sistem Login
 
